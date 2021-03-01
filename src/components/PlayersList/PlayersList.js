@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import playersData from '../../fakeData/fakeData.json';
 import Cart from '../Cart/Cart';
 import Player from '../Player/Player';
-import './PlayersList.css';
 const PlayersList = () => {
     const [players, setPlayers] = useState([]);
     useEffect(() => {
