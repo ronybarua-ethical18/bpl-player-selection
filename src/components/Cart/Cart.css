@@ -1,0 +1,10 @@
+.cart-details h1{
+    font-weight:bold;
+    color:#ff105e;
+}
+.cart-details h4{
+    color:lightslategray;
+}
+.cart-details hr{
+    background-color:#ff105e;
+}

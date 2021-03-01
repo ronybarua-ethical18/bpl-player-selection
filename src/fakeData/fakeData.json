@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "name": "Mashrafee",
+    "team": "Bangladesh",
+    "role": "Bowling",
+    "auction": 2500,
+    "image": "https://i.ibb.co/zbz6gzN/mashrafee.jpg",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Pacer"
+  }, {
+    "id": 2,
+    "name": "Glenn Maxwell",
+    "team": "Australia",
+    "role": "All rounder",
+    "auction": 2650,
+    "image": "https://i.ibb.co/mXcW6wm/maxwell.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Spinner"
+  }, {
+    "id": 3,
+    "name": "Eoin Morgan",
+    "team": "England",
+    "role": "Batting",
+    "auction": 1870,
+    "image": "https://i.ibb.co/z4WQfDC/morgan.png",
+    "batting": "Left Hand",
+    "bowling": "Left Hand Spinner"
+  }, {
+    "id": 4,
+    "name": "Kane Williamson",
+    "team": "New Zealand",
+    "role": "All rounder",
+    "auction": 2576,
+    "image": "https://i.ibb.co/ZYFbtDZ/williamson.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Spinner"
+  }, {
+    "id": 5,
+    "name": "Kumar Sangakara",
+    "team": "Srilanka",
+    "role": "batting, Wicket Keeper",
+    "auction": 2875,
+    "image": "https://i.ibb.co/th5LW4f/sangakara.png",
+    "batting": "Left Hand",
+    "bowling": "Wicket Keeper"
+  }, {
+    "id": 6,
+    "name": "Nickolas Poran",
+    "team": "West Indies",
+    "role": "Batting",
+    "auction": 2130,
+    "image": "https://i.ibb.co/rQdNXhV/poran.png",
+    "batting": "Left Hand",
+    "bowling": "Left Hand Spinner"
+  }, {
+    "id": 7,
+    "name": "KL Rahul",
+    "team": "India",
+    "role": "All rounder",
+    "auction": 2600,
+    "image": "https://i.ibb.co/pjZfGkb/rahul.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Spinner"
+  }, {
+    "id": 8,
+    "name": "Mohammad Amir",
+    "team": "Pakistan",
+    "role": "Bowler",
+    "auction": 2135,
+    "image": "https://i.ibb.co/HVvXyxd/amir.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Pacer"
+  }, {
+    "id": 9,
+    "name": "Chris Moris",
+    "team": "South Arica",
+    "role": "All rounder",
+    "auction":2435,
+    "image": "https://i.ibb.co/TTXNJBJ/morris.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Pacer"
+  }, {
+    "id": 10,
+    "name": "Rashid Khan",
+    "team": "Afghanistan",
+    "role": "Bowler",
+    "auction": 1550,
+    "image": "https://i.ibb.co/fN42HfS/rashid.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Spinner"
+  }, {
+    "id": 11,
+    "name": "Paul Stirlling",
+    "team": "Ireland",
+    "role": "All rounder",
+    "auction": 1340,
+    "image": "https://i.ibb.co/MRSwVzV/paul.png",
+    "batting": "Left Hand",
+    "bowling": "Left Hand Pacer"
+  }, {
+    "id": 12,
+    "name": "Ben Cooper",
+    "team": "Nether Lands",
+    "role": "All rounder",
+    "auction": 1250,
+    "image": "https://i.ibb.co/pRC2LcM/Cooper.png",
+    "batting": "Right Hand",
+    "bowling": "Right Hand Spinner"
+  }]

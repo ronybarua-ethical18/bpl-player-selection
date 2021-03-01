@@ -1,0 +1,41 @@
+.player-image img{
+    height:250px;
+    border:2px solide lightgray;
+}
+.add-player button{
+    background-color: #FF105E;
+    color:#fff;
+    text-align: center;
+    padding:8px;
+    width:100%;
+}
+.add-player button:hover{
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #ff105e;
+    color:#000;
+}
+.social-links, .icons{
+    background-color: #fff;
+    color:#282A36;
+    font-size: 20px;
+}
+.social-links{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 6px 0;
+    border-radius: 5px;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.icons{
+    color:#ff105e;
+}
+.social-links:hover, .social-links:hover .icons{
+    background-color:#ff105e;
+    color:#fff;
+    transition:all 0.3s ease-in-out;
+}
+.player-info{
+    color:#282A36;
+}
