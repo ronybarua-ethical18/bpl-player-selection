@@ -1,7 +1,7 @@
 import React from 'react';
 import './Player.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faInstagram, faLinkedin} from '@fortawesome/free-brands-svg-icons'
+import { faFacebook, faTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 const Player = (props) => {
     const { name, team, role, auction, image, batting, bowling } = props.players;
@@ -10,7 +10,7 @@ const Player = (props) => {
             <div className="shadow p-3 border mb-3">
                 <div className="player-image">
                     <div className="single-image d-flex justify-content-center">
-                    <img src={image} className="img-fluid mb-3" alt="" />
+                        <img src={image} className="img-fluid mb-3" alt="" />
                     </div>
                     <div className="social-links">
                         <a href="/"><FontAwesomeIcon className="icons" icon={faFacebook} /></a>
@@ -29,8 +29,8 @@ const Player = (props) => {
                 </div>
                 <div className="add-player">
                     <button onClick={() => props.handlePlayer(props.players)}
-                     className="btn mb-3">
-                    <FontAwesomeIcon icon={faUserPlus} /> Add Player</button>
+                        className="btn mb-3">
+                        <FontAwesomeIcon icon={faUserPlus} /> Add Player</button>
                 </div>
             </div>
         </div>

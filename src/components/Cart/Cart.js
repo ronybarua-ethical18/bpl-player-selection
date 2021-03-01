@@ -5,13 +5,9 @@ const Cart = (props) => {
     const playerCart = props.cart;
     console.log(playerCart);
     const budget = playerCart.reduce((budget, totalBudget) => budget + totalBudget.auction, 0)
-    // const name = playerCart.reduce((name, fullName) => name + ' ' + fullName.name, ' ');
-    // const auction = playerCart.reduce((auction, totalAuction) => auction + totalAuction.auction, 0)
-
-
     return (
         <div class="col cart-details">
-           <div className="shadow p-3 border text-center">
+            <div className="shadow p-3 border text-center">
                 <h1 className="">Player Details</h1>
                 <h4>Players Added: {playerCart.length}</h4>
                 <h4 class="mb-3">Total Estimated Budget: ${budget}</h4>
@@ -21,7 +17,7 @@ const Cart = (props) => {
                         playerCart.map(psingle => <SinglePlayer sPlayer={psingle} key={psingle.id}></SinglePlayer>)
                     }
                 </div>
-           </div>
+            </div>
         </div>
     );
 };
