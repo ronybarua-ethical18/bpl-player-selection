@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className="container ">
             <div className="col">
-                <div className="text-center d-flex p-3 shadow mb-5">
+                <div className="text-center p-3 shadow mb-5">
                     <h2 className="header-title">Bangladesh Premiere League</h2>
                 </div>
             </div>
